@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+	path = /hacker-news
+	url = git://github.com/eusdima/hacker-news.git
